@@ -1,3 +1,5 @@
 - 하주헌 (hjhj97)
-- From Dept of Software in Ajou Univ.
+- From : Dept of Software in Ajou Univ.
+- BLOG : https://ps-hjhj97.tistory.com/
+- Interset : Front-end(Javascript, React.js) , UI/UX
 - Contact : hjhjaueon97@naver.com
