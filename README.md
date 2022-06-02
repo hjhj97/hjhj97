@@ -1,5 +1,5 @@
 - 하주헌 (hjhj97)
 - From : Dept of Software in Ajou Univ.
 - BLOG : https://ps-hjhj97.tistory.com/
-- Intereste: Front-end(Javascript, React.js) , UI/UX, ProblemSolving
+- Intereste: Front-end(Javascript, React.js, Vue.js) , UI/UX, ProblemSolving
 - Contact : hjhjaueon97@naver.com
