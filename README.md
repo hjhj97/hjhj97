@@ -1,5 +1,5 @@
-- 하주헌 (hjhj97)
-- From : Dept of Software in Ajou Univ.
+- 하주헌 (JuHoen Ha)
+- Education : March 2017 - current, Ajou Univ. Bachelor of Software
 - BLOG : https://ps-hjhj97.tistory.com/
-- Intereste: Front-end(Javascript, React.js, Vue.js) , UI/UX, ProblemSolving
+- Interest: Front-end(Javascript, React.js, Vue.js) , UI/UX, ProblemSolving
 - Contact : hjhjaueon97@naver.com
