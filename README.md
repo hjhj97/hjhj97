@@ -1,5 +1,5 @@
 - 하주헌 (Neon)
-- Education : Jan 2017 - current, Ajou Univ. Bachelor of Software
+- Education : Feb 2017 - current, Ajou Univ. Bachelor of Software
 - Blog : https://ps-hjhj97.tistory.com/
 - Interest: Front-end (Javascript, React.js, Vue.js) , UI/UX, ProblemSolving
 - Contact : hjhjaueon97@gmail.com
